@@ -1,6 +1,6 @@
 {
   "name": "mongodb-latest-tools",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Mongo DB latest tools",
   "main": "lib/index.js",
   "scripts": {
