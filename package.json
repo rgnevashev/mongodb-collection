@@ -1,6 +1,6 @@
 {
   "name": "@tiggastudios/mongodb-tools",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "Mongo DB latest tools",
   "main": "lib/index.js",
   "scripts": {
